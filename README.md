@@ -1,2 +1,3 @@
 # hello-world
-A hello world rep
+A hello world repository
+Github tutorial
